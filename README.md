@@ -40,6 +40,7 @@ Las librerías utilizadas han sido las siguientes:
 - Fiona
 
 **Estructura del Repositorio**
+
 Hay dos carpetas principales: Main y src. 
 
 En Main se encuentran los notebooks limpios de los años 2020 a 2024 con los análisis completos que se llaman Main_EDA_Accidentalidad_"año correspondiente", y uno de general con comparaciones de todos los años que se llama Main_EDA_Accidentalidad.
@@ -47,11 +48,11 @@ En Main se encuentran los notebooks limpios de los años 2020 a 2024 con los an�
 En src se encuentran tres carpetas:
 
 1. data: contiene los datasets descargados del [Ayuntamiento de Madrid](https://datos.madrid.es/portal/site/egob/menuitem.c05c1f754a33a9fbe4b2e4b284f1a5a0/?vgnextoid=7c2843010d9c3610VgnVCM2000001f4a900aRCRD&vgnextchannel=374512b9ace9f310VgnVCM100000171f5a0aRCRD&vgnextfmt=default)
-y con los datasets limpios y procesados.
+y con los datasets limpios y procesados, además de un documento con la descripción de los accidentes resgistrados por la Policía Municipal.
 2. img: contiene las imágenes utilizadas en la memoria.
 3. notebooks: notebooks en sucio del análisis
 
-Además hay una memoria redactando el análisis, una presentación basada en este informe y un documento.
+Además hay una memoria redactando el análisis y una presentación basada en este informe.
 
 **Instrucciones de reproduccion**
 
@@ -75,7 +76,6 @@ Adicionalmente al contraste de las hipótesis planteadas, los resultados del an�
 - En conclusión, los resultados evidencian que la accidentalidad intraurbana en la ciudad de Madrid presenta patrones temporales, geográficos y demográficos relevantes, así como relaciones significativas con la lesividad y el contexto del accidente.
 
 
-Además hay una memoria redactando el análisis, una presentación basada en este informe y un documento. 
 
 **Autores**
 - César Sánchez Parra
