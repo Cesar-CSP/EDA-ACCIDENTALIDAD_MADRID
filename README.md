@@ -51,7 +51,7 @@ y con los datasets limpios y procesados.
 2. img: contiene las imágenes utilizadas en la memoria.
 3. notebooks: notebooks en sucio del análisis
 
-- Además hay una memoria redactando el análisis, una presentación basada en este informe y un documento.
+Además hay una memoria redactando el análisis, una presentación basada en este informe y un documento.
 
 **Instrucciones de reproduccion**
 
@@ -78,6 +78,6 @@ Adicionalmente al contraste de las hipótesis planteadas, los resultados del an�
 Además hay una memoria redactando el análisis, una presentación basada en este informe y un documento. 
 
 **Autores**
-César Sánchez Parra
-Lucía Fuentes González
-Adrian Quindimil Rengel
+- César Sánchez Parra
+- Lucía Fuentes González
+- Adrian Quindimil Rengel
